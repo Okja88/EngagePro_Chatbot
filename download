@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# Vector Database (Local Data)
+chroma_db_v2/
+
+# Environment Variables / Keys
+.env
+.flaskenv
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large PDF files (Optional - if you don't want to share the brochure)
+# Company_Brochure.pdf
